@@ -1,8 +1,5 @@
-<br>
-<br>
 
 Creating a simple AR model to fit the US monthly corporate bond yields (1990-1994).
-
 <br>
 <br>
 
@@ -11,7 +8,7 @@ A graph showing the series
 <br>
 <br>
 
-![](D:/Mestrado/Materias/Modelos macro/Trabalho final/simple-ARMA-model/dados/grafico1.png)
+![](dados/grafico1.png)
 
 <br>
 <br>
@@ -21,7 +18,7 @@ Supposing the data are stationary, I will observe the correlogram and determine 
 <br>
 <br>
 
-![](D:/Mestrado/Materias/Modelos macro/Trabalho final/simple-ARMA-model/dados/grafico2.png)
+![](dados/grafico2.png)
 
 <br>
 <br>
@@ -52,7 +49,7 @@ Plotting the AR(1)
 <br>
 <br>
 
-![](D:/Mestrado/Materias/Modelos macro/Trabalho final/simple-ARMA-model/dados/grafico3.png)
+![](dados/grafico3.png)
 
 <br>
 <br>
